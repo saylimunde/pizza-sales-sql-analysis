@@ -17,11 +17,14 @@ The analysis is based on 21,350 orders, generating ₹817,860 in total revenue.
 - SQL
 - MySQL Workbench
 
-# Key Insights
-- Large size pizzas are the most commonly ordered
-- Classic category contributes the highest revenue
-- Thai Chicken Pizza is the top revenue-generating pizza
-- Revenue shows a steady cumulative growth trend
+# Key Features
+- Total Orders
+- Total Revenue
+- Most Ordered Pizza Size
+- Top-Selling Pizzas
+- Revenue by Category
+- Peak Order Hours
+- Cumulative Revenue Trend
 
 # Project Structure
 - sql_queries – SQL queries used for analysis
